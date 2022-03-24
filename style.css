@@ -1,0 +1,21 @@
+.row {
+	margin: 100px;
+}
+
+.descriptif {
+	margin: 0 0 15px 0;
+}
+
+h3 {
+	text-align: center;
+	padding-bottom: 20px;
+	font-size: 2.2em;
+}
+
+h5, h6 {
+	color: darkslategrey;
+}
+
+button {
+	margin: 5px;
+}
